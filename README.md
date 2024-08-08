@@ -28,4 +28,14 @@ The goal of this project is to analyze data to guide our developers on the types
 		- An audio version of the book.
 		- Quizzes on the book.
 		- A forum for discussions about the book.
+		
+## Results
+The analysis suggests that the book genre has a high potential for attracting users on both platforms. However, due to market saturation, it is recommended to enhance book apps with additional engaging features to differentiate from existing offerings.
+
+## Future Work
+Further analysis could include:
+
+- Evaluating user engagement and retention rates for different app genres.
+- Investigating other potential app genres with untapped market potential.
+- Implementing and testing the recommended features for book apps to assess their impact on user engagement and revenue.
 
