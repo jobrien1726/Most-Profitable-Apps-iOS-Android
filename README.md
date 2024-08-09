@@ -30,7 +30,9 @@ The goal of this project is to analyze data to guide our developers on the types
 		- A forum for discussions about the book.
 		
 ## Results
-The analysis suggests that the book genre has a high potential for attracting users on both platforms. However, due to market saturation, it is recommended to enhance book apps with additional engaging features to differentiate from existing offerings.
+In this project, we analyzed data about the App Store and Google Play mobile apps with the goal of recommending an app profile that can be profitable for both markets.
+
+The analysis suggests that the book genre has a high potential for attracting users on both the Google Play and App Store platforms. However, due to market saturation, it is recommended to enhance book apps with additional engaging features to differentiate from existing offerings.
 
 ## Future Work
 Further analysis could include:
