@@ -14,7 +14,7 @@ The goal of this project is to analyze data to guide our developers on the types
 2. **Data Exploration**
 	- Opened and explored the datasets to understand their structure and content.
 3. **Data Cleaning**
-	- Removed duplicates and detected and deleted inaccurate or irrelevant data, focusing on:
+	- Removed duplicates and detected and deleted inaccurate or irrelevant data, more specifically:
 		- Non-English apps.
 		- Apps that are not free.
 4. **Genre Analysis**
